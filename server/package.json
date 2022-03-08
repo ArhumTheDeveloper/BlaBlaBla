@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "socket.io": "^4.4.1",
     "twilio": "^3.75.0",
@@ -9,7 +10,6 @@
   "name": "wittychat",
   "version": "2.2.11-2",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
